@@ -1,14 +1,14 @@
 [
   {
-    "name": "project1",
-    "live": "https://app.herokuapp.com/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Computer Science Trivia",
+    "live": "https://seir-project-1-trivia-game-k5jjf9hdn-craig-mcgowan.vercel.app/",
+    "git": "https://github.com/craig-mcgowan/seir-project-1",
+    "image": "https://i.imgur.com/qYHR8LT.png"
   },
   {
-    "name": "project2",
-    "live": "https://app.netlify.app/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "BuildHub",
+    "live": "https://craigmcgowan-project2.herokuapp.com/",
+    "git": "https://github.com/craig-mcgowan/ringo-project2",
+    "image": "https://i.imgur.com/GsgxHEM.png"
   }
 ]
